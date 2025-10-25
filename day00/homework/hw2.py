@@ -1,0 +1,5 @@
+print("მიმდინარე კატეგორიაში შემდეგი 6 გვერდია 6-დან.")
+print("B - bait - bit")
+print("O - object")
+print("P - pointer - polimorphism")
+print("T - type system")
